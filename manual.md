@@ -35,6 +35,8 @@ I was inspired by the [Bloomberg beta manual on Github](https://github.com/Bloom
 * [Tell us more about your team?](#Tell-us-more-about-your-team)
 * [Random facts](#Random-facts)
 * [Funding](#Funding)
+* [Contact](#Contact)
+
 
 ## What is your product?
 
@@ -215,6 +217,8 @@ We launched last month, and with ZERO Marketing dollars :
 | $500,000              | $5M Cap                 | Convertible note |
 |                       | 20% discount            |                  |
 |                       | Maturity period 2 Years |                  |
+
+## Contact
 
 Does this sound like a great fit? Reach out to me Sanjay Nediyara 
 [sanjay@sievehq.com](mailto:sanjay@sievehq.com) 
