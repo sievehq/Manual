@@ -1,16 +1,6 @@
 Sieve
 ================
 
-I am a deaf founder currently raising funding for my startup. I am shy with social anxiety and I almost always fail at networking during events due to both my medical condition and fear. On the top of this in the current world, everyone have short attention span, everyone is busy, obsessed with being quick — while anything in life worth doing takes time.  
-
-2010 — I lost about 80% of hearing.</br>
-2011 — Rejected for jobs because I can’t get on client calls.</br> 
-2012 — Got a job paying $120 a month to learn and do programming.</br> 
-2015 — more learning, job, startup. </br>
-2016 — Job offer for $120,000 which was rejected and went on to build my own startup. </br>
-
-Most recently I was invited for jobs at Google and Facebook. </br>
-
 It took me about 8 years to reach where I am today <http://sanjaynediyara.com/></br>
 
 I was inspired by the [Bloomberg beta manual on Github](https://github.com/Bloomberg-Beta/Manual) and I am writing this as a Sieve manual for potential investors in our company, who want to come together to build it for the long term, who have an eye on the horizon, and more importantly who is excited about the future of work. 
