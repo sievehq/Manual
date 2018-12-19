@@ -1,7 +1,7 @@
 Sieve
 ================
 
-I am a deaf founder currently raising funding for my startup. I am not street smart, I am shy with social anxiety and I almost always fail at networking during events due to both my medical condition and fear. On the top of this in the current world, everyone have short attention span, everyone is busy, obsessed with being quick — while anything in life worth doing takes time.  
+I am a deaf founder currently raising funding for my startup. I am shy with social anxiety and I almost always fail at networking during events due to both my medical condition and fear. On the top of this in the current world, everyone have short attention span, everyone is busy, obsessed with being quick — while anything in life worth doing takes time.  
 
 2010 — I lost about 80% of hearing.</br>
 2011 — Rejected for jobs because I can’t get on client calls.</br> 
