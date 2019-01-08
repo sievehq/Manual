@@ -122,7 +122,7 @@ We launched last month, and with ZERO Marketing dollars :
 
 1. 2000 visitors to the website. 
 
-1. 350 new user signups = 18% conversion 
+1. 350 new user signups = 18% conversion (Update : 500+ users as of January)
 
 1. 12% added their credit card in the first 100 when we made it mandatory. 
 
@@ -178,8 +178,8 @@ We launched last month, and with ZERO Marketing dollars :
 | Team                                                         |
 | ------------------------------------------------------------ |
 | **Sanjay Nediyara**, Founder and CEO (myself) : </br>Developer turned entrepreneur. Full profile : <http://sanjaynediyara.com/> My superpower is communication. You see the irony don’t you? A deaf person saying his superpower is communication :) But I’ve found effective ways to communicate with the world on internet and in real world. I know how to build communities with people, I’ve reached over 2 million people on StackOverflow, build a programmers community of developers working with Google which scaled to over 1000+ people, wrote a resource e-book read by thousands of people every month, even I’ve got many people in my apartment building to play badminton every evening together. |
-| **Arun P**, Co-founder and CTO : </br>Built more than a dozen live web and mobile apps, Previously founder of campus startup which was one of the first 20 companies chosen to be part of program by Kerala Government, India. | 
-| **Harshil Hameed**, Technical Architect : </br>With over 10 years under his belt as a senior technical architect, Harshil had previously built / architected the platform for Emirates flight Dubai. | 
+| **Arun**, Co-founder and CTO : </br>Built more than a dozen live web and mobile apps, Previously founder of campus startup which was one of the first 20 companies chosen to be part of program by Kerala Government, India. | 
+| **Harshil**, Technical Architect : </br>With over 10 years under his belt as a senior technical architect, Harshil had previously built / architected the platform for Emirates flight Dubai. | 
 | **Graham Seymour**, Chief Growth Officer : </br>One of the first direct sales and marketing hire at Toptal, then Engineer.ai and [gun.io](http://gun.io). We were in touch for about an year now, and he believes in our mission and finally coming in. |
 | **Full team** : </br>We also have full-time, in-house designer and 3 engineers on front-end and back-end development and a customer success executive. | 
 
