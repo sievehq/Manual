@@ -194,20 +194,6 @@ We launched last month, and with ZERO Marketing dollars :
 | When I had problem with hearing at Draper University we hacked together an [app that convert voice to text](https://imgur.com/a/kEZP7) on day 4 we were ready, fortunately we discovered Ava - an app does the same thing as a full time startup, so didn’t launch it. We’ve worked on numerous projects before and after that. |
 | [I turned down facebook and Google interview last month](https://photos.app.goo.gl/Yv66LRgpwAfFvgmZ9) even when we were at the end of our runway, I somehow don't want to give up on Sieve for anything else. |
 
-
-
-
-## Funding
-
-| **Financing**         | **Money raised**        | **Valuation**    |
-| --------------------- | ----------------------- | ---------------- |
-| Angel round           | $50,000                 | $200,000         |
-|                       |                         |                  |
-| **Currently raising** | **Terms**               | **Valuation**    |
-| $500,000              | $5M Cap                 | Convertible note |
-|                       | 20% discount            |                  |
-|                       | Maturity period 2 Years |                  |
-
 ## Contact
 
 Does this sound like a great fit? Reach out to me Sanjay Nediyara 
