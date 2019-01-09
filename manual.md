@@ -114,6 +114,31 @@ The latest version launched last month (November) with all the learning from pre
 
 Anyone in technology who is freelancing on the side or full time. We are currently focusing only on tech, we want to perfect one before getting into other verticals too soon. 
 
+**Independent Contractors**
+
+(40% of the independent workforce / 21.1 million professionals) 
+
+These “traditional” freelancers don’t have an employer and instead do freelance, temporary, or supplemental work on a project-to-project basis.
+
+**Moonlighters** 
+
+(27% / 14.3 million people)
+
+Professionals with a primary, traditional job who also moonlight doing freelance work. For example, a corporate employed web developer who also does projects for non-profits in the evening. 
+
+**Freelance Business Owners**  
+
+(5% / 2.8 million people)
+
+Business owners with between one and five employees who consider themselves both a freelancer and a business owner. For example, a social marketing guru who hires a team of other social marketers to build a small agency, but still identifies as a freelancer. 
+
+**Temporary Workers** 
+
+(10% / 5.5 million people) 
+
+Individuals with a single employer, client, job, or contract project where their employment status is temporary. For example, a business strategy consultant working for one startup client on a contract basis for a months-long project. 
+
+##
 
 
 ## Traction — where are you currently?
