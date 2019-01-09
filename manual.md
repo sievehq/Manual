@@ -138,8 +138,6 @@ Business owners with between one and five employees who consider themselves both
 
 Individuals with a single employer, client, job, or contract project where their employment status is temporary. For example, a business strategy consultant working for one startup client on a contract basis for a months-long project. 
 
-##
-
 
 ## Traction — where are you currently?
 
