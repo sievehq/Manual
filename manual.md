@@ -145,7 +145,7 @@ We launched last month, and with ZERO Marketing dollars :
 
 1. 2000 visitors to the website. 
 
-1. 350 new user signups = 18% conversion (Update : 500+ users as of January)
+1. 350 new user signups = 18% conversion (Update : 500+ users as of January, Update 2 : 850 users on Jan 18)
 
 1. 12% added their credit card in the first 100 when we made it mandatory. 
 
