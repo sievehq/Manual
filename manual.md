@@ -141,13 +141,15 @@ Individuals with a single employer, client, job, or contract project where their
 
 ## Traction — where are you currently?
 
-We launched last month, and with ZERO Marketing dollars : 
+1. 1500+ users since January 2019 (Payment is not mandatory now, learning customer journey). 
 
-1. 2000 visitors to the website. 
+2. When we made payment mandatory after signup, 10% conversion rate -- signup to adding a credit card and paying next month, 20 paying users paying an average $32 per user per month. Tried variations from $4, $29 and $49/mo
 
-1. 350 new user signups = 18% conversion (Update : 500+ users as of January, Update 2 : 850 users on Jan 18)
+3. 12% added their credit card in the first 100 when we made it mandatory. 
 
-1. 12% added their credit card in the first 100 when we made it mandatory. 
+4. Hundreds of feedback on hacker news (300+ comments, trending more than a day) from Engineering director of Eventbrite, creator of Django, Architects at Philips, Linkedin, Basecamp.
+
+5. Top 5 on Product hunt. 
 
 
 
@@ -169,38 +171,21 @@ We launched last month, and with ZERO Marketing dollars :
 
 | **Quarter** | **Objective**                                   | **Description**                                              |
 | ----------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| Q1 2019     | Payment routing                                 | Setup automatic invoicing based on milestones and route the client payments upto bank accounts of freelancers within seconds, accepting all major debit / credit cards and ACH transfers. |
-| Q2 2019     | Retainer client management                      | Let freelancer manage recurring retainer clients with fixed payments every month. |
-| Q3 2019     | Profile verifications of client and freelancers | Background checks and verifications of freelancers and clients to enable more trust among the community. |
-| Q4 2019     | Mobile app for communications                   | Mobile app for client and freelancer to communicate — chat / call etc. |
-| Q1 2020     | Widgets                                         | Pluggable widget for freelancer that can be added to existing websites, blogs, etc. |
-| Q2 2020     | Team                                            | Team management features including inviting team members in projects, working together as a team on different projects, team communications and management. |
-| Q3 2020     | Tax management                                  | Simple and easy tax management and filing for for freelancers. |
-| Q4 2020     | Local freelancer discovery                      | Public pages of freelancer from each cities enabling local discovery of freelancers in each domains. |
-
-
-
-## What are the metrics you track right now?
-
-1. Number of users signup from each channel 
-2. Number of people who complete their personal website 
-3. Number of clients starting a project with each freelancer 
-
-
-
-## What is your core focus now?
-
-1. How do we get people at the front door? 
-2. How do we create the Aha! moment for freelancer? 
-3. How do we deliver core values more often?
-
+| Q3 2019     | Payment routing                                 | Setup automatic invoicing based on milestones and route the client payments upto bank accounts of freelancers within seconds, accepting all major debit / credit cards and ACH transfers. |
+| Q4 2019     | Retainer client management                      | Let freelancer manage recurring retainer clients with fixed payments every month. |
+| Q1 2020     | Profile verifications of client and freelancers | Background checks and verifications of freelancers and clients to enable more trust among the community. |
+| Q2 2020     | Mobile app for communications                   | Mobile app for client and freelancer to communicate — chat / call etc. |
+| Q3 2020     | Widgets                                         | Pluggable widget for freelancer that can be added to existing websites, blogs, etc. |
+| Q4 2020     | Team                                            | Team management features including inviting team members in projects, working together as a team on different projects, team communications and management. |
+| Q1 2021     | Tax management                                  | Simple and easy tax management and filing for for freelancers. |
+| Q2 2021     | Local freelancer discovery                      | Public pages of freelancer from each cities enabling local discovery of freelancers in each domains. |
 
 
 ## Tell us more about your team?
 
 | Team                                                         |
 | ------------------------------------------------------------ |
-| **Sanjay Nediyara**, Founder and CEO (myself) : </br>Developer turned entrepreneur. Full profile : <http://sanjaynediyara.com/> My superpower is communication. You see the irony don’t you? A deaf person saying his superpower is communication :) But I’ve found effective ways to communicate with the world on internet and in real world. I know how to build communities with people, I’ve reached over 2 million people on StackOverflow, build a programmers community of developers working with Google which scaled to over 1000+ people, wrote a resource e-book read by thousands of people every month, even I’ve got many people in my apartment building to play badminton every evening together. |
+| **Sanjay Nediyara**, Founder and CEO (myself) : </br>Developer turned entrepreneur. Full profile : <http://sanjaynediyara.com/> Forbes fellow (2018). Reach award winner. Draper University alum. Shipped over a dozen mobile apps. Previously senior engineer at Startup Village. Founded the largest technology community in Cochin with more than 1k members working with Google. Top 4% on Stackoverflow reaching more than 2M people. Wrote a resource ebook to help people get started on Android which is read by thousands of people every month in 42 countries. |
 | **Arun**, Co-founder and CTO : </br>Built more than a dozen live web and mobile apps, Previously founder of campus startup which was one of the first 20 companies chosen to be part of program by Kerala Government, India. | 
 | **Harshil**, Technical Architect : </br>With over 10 years under his belt as a senior technical architect, Harshil had previously built / architected the platform for Emirates flight Dubai. | 
 | **Graham Seymour**, Chief Growth Officer : </br>One of the first direct sales and marketing hire at Toptal, then Engineer.ai and [gun.io](http://gun.io). We were in touch for about an year now, and he believes in our mission and finally coming in. |
