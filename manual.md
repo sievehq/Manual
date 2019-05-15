@@ -145,11 +145,7 @@ Individuals with a single employer, client, job, or contract project where their
 
 2. When we made payment mandatory after signup, 10% conversion rate -- signup to adding a credit card and paying next month, 20 paying users paying an average $32 per user per month. Tried variations from $4, $29 and $49/mo
 
-3. 12% added their credit card in the first 100 when we made it mandatory. 
-
-4. Hundreds of feedback on hacker news (300+ comments, trending more than a day) from Engineering director of Eventbrite, creator of Django, Architects at Philips, Linkedin, Basecamp.
-
-5. Top 5 on Product hunt. 
+3. Hundreds of feedback on hacker news (300+ comments, trending more than a day) from Engineering director of Eventbrite, creator of Django, Architects at Philips, Linkedin, Basecamp and top 5 on Product hunt when launched. 
 
 
 
